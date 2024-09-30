@@ -1,79 +1,103 @@
-### Hey 👋, I'm Rick
+# 🪵 Stronk Overview
 
-[![Github](https://img.shields.io/github/followers/rickstaa?label=Follow&style=social)](https://github.com/rickstaa)
+I am Marco, video streaming engineer, aspiring musician and owner of Stronk Tech: a software company with a dedication to release unlicensed, open-source software. On this page you can view all of our open-source contributions.
 
-I'm a Robotics master's student passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore enjoy working on interesting open source projects.
+We have the intention to provide anyone open access to a complete media pipeline, from the backend media server to the frontend components required to consume content.
 
-<!-- Light Mode -->
+If you're in need of help for your media related projects, [contact us](https://www.stronk.tech/contact) and we'll introduce you to the MistServer team to see how we can help you.
+
+## Stronk Links
+
+<a href="https://linktr.ee/stronk.tech" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/links-%40stronk.tech-c0caf5?style=for-the-badge&logo=linktree&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Flinktr.ee%2Fstronk.tech" alt="Linktree" />
+</a>
+&nbsp;
+<a href="http://stronk.tech/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/website-www.stronk.tech-c0caf5?style=for-the-badge&logo=webflow&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Fstronk.tech" alt="Main website" />
+</a>
+&nbsp;
+<a href="https://wa.me/31625300165" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-%40stronk--tech-c0caf5?style=for-the-badge&logo=whatsapp&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Fwa.me%2F31625300165" alt="WhatsApp" />
+</a>
+&nbsp;
+<a href="https://t.me/Cpn_Stronk" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-%40Cpn__Stronk-c0caf5?style=for-the-badge&logo=telegram&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Ft.me%2FCpn_Stronk" alt="Telegram" />
+</a>
+&nbsp;
+<a href="https://discordapp.com/users/303504235927044097" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-%40captain.stronk-c0caf5?style=for-the-badge&logo=discord&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F303504235927044097" alt="Discord" />
+</a>
+
+&nbsp;
+
+## Stronk Stats
+*(unfortunately [the script](https://github.com/anuraghazra/github-readme-stats) only indexes language usage of your own non-forked repo's, so 'Most Used Languages' is more 'Most used languages for personal side-projects')*
+
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Rick Staa's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rickstaa&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Rick Staa's Github stats" />
-</a>
+    <img height=259 width="45%" src="https://github.com/stronk-dev/stronk-dev/blob/grs/stats-tokyonight.svg" alt="Stronk Tech's Language stats" />
+    <img height=259 width="45%" src="https://github.com/stronk-dev/stronk-dev/blob/grs/top-langs-tokyonight.svg" alt="Stronk Tech's Github stats" />
 </div>
 
-<!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rickstaa&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
-</a>
-</div>
+&nbsp;
 
-<br/>
+## Stronk Contributions
 
-<!-- Social button 1 -->
-<!-- Light Mode -->
-<a href="https://t.me/rickstaa#gh-light-mode-only">
-<img src="https://img.shields.io/badge/message-%40rickstaa-1DA1F2?style=for-the-badge&logo=telegram&labelColor=000&color=3572A5#gh-light-mode-only" alt="Ask me anything">
-</a>
-<!-- Dark Mode -->
-<a href="https://t.me/rickstaa#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/message-%40rickstaa-1DA1F2?style=for-the-badge&logo=telegram&labelColor=000&color=FFF#gh-dark-mode-only" alt="Ask me anything">
-</a>
+### MistServer - worlds first public domain media engine.
+
+> The most efficient and flexible media server in existence, now completely open-source. Take control of your media pipeline and start building with MistServer!
+
+We're one of the maintainers of [MistServer](https://mistserver.com/), the media toolkit that puts you in charge. MistServers' strength lies in it's *extreme*  versatility. It just works, no matter what media format you need to handle or device you want to turn into a streaming powerhouse.
+
+Check out our [repository](https://github.com/DDVTECH/mistserver) and [documentation](https://docs.mistserver.org/) to get started for free, no strings attached!
+
+If you need any help, feel free to [contact us](https://www.stronk.tech/contact) and we'll introduce you to the rest of the MistServer team to see how we can help you.
+
 &nbsp;
-<!-- Social button 2 -->
-<!-- Light Mode -->
-<a href="https://warpcast.com/rickstaa.eth#gh-light-mode-only">
-<img src="https://img.shields.io/badge/follow-%40rickstaa-1DA1F2?style=for-the-badge&logo=farcaster&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
-</a>
-<!-- Dark Mode -->
-<a href="https://warpcast.com/rickstaa.eth#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/follow-%40rickstaa-1DA1F2?style=for-the-badge&logo=farcaster&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
-</a>
+
+### StreamCrafter - where every browser becomes a livestream studio.
+
+> No installation. No configuration. No hassle. Just ultra low latency livestreaming straight from the browser.
+
+We're the maintainer of the [StreamCrafter](https://www.streamcrafter.live/), an in-browser broadcasting studio. Using cutting edge web API's, we can turn any device with a browser into a livestream studio.
+
+Check out our [repository](https://github.com/DDVTECH/StreamCrafter) and [NPM](https://www.npmjs.com/package/@optimist-video/streamcrafter) package to get started with the StreamCrafter!
+
+Note: the StreamCrafter is currently in an alpha state. We're actively looking for (paid) contributors. If you have expertise in web development feel free to [contact us](https://www.streamcrafter.live/contact)!
+
 &nbsp;
-<!-- Social button 3 -->
-<!-- Light Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=rick_staa#gh-light-mode-only">
-<img src="https://img.shields.io/badge/follow-%40rick_staa-1DA1F2?style=for-the-badge&logo=x&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
-</a>
-<!-- Dark Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=rick_staa#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/follow-%40rick_staa-1DA1F2?style=for-the-badge&logo=x&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
-</a>
+
+### Livepeer - world’s open video infrastructure.
+
+> Infrastructure for video computing, enabling AI processing and transcoding jobs to power the future of video.
+
+We used to be core contributors to the [Livepeer protocol](https://www.livepeer.org/) and are still heavily involved in the Livepeer ecosystem, moderating their socials and (still) submitting PR's.
+
+If you're into crypto, feel free to [stake to our Livepeer node](https://explorer.livepeer.org/accounts/0x847791cbf03be716a7fe9dc8c9affe17bd49ae5e/delegating) to show your support and **earn LPT and ETH**.
+
+Livepeer has a enterprise-ready hosted service, called [Livepeer Studio](https://livepeer.studio/). If you want to build *anything* with video, but don't have the expertise to build and manage your own infrastructure, they can help you out!
+
 &nbsp;
-<!-- Social button 4 -->
-<!-- Light Mode -->
-<a href="https://www.linkedin.com/in/rickstaa#gh-light-mode-only">
-<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
-</a>
-<!-- Dark Mode -->
-<a href="https://www.linkedin.com/in/rickstaa#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
-</a>
-&nbsp;
-<!-- Social button 5 -->
-<!-- Light Mode -->
-<a href="https://app.ens.domains/rickstaa.eth#gh-light-mode-only">
-<img src="https://img.shields.io/badge/rickstaa.eth-3572A5?style=for-the-badge&logo=ethereum&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
-</a>
-<!-- Dark Mode -->
-<a href="https://app.ens.domains/rickstaa.eth#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/rickstaa.eth-ffffff?style=for-the-badge&logo=ethereum&logoColor=black#gh-dark-mode-only" alt="Connect with me on linkedin" >
-</a>
+
+### In flight:
+
+The following projects are still in a pre-alpha state and will get released in the future:
+
+#### Stronk-AI
+A dashboard to run AI inference jobs on the Livepeer network (for free)! If this piques your interest, feel free to check out [our demo](https://inference.stronk.rocks/).
+
+#### Stronk-Media-Pipeline (pending rename)
+A reference media pipeline for a basic streaming platform, including docker images, deployment packages and a helpful manual to get introduced to the media industry. There are a couple of subprojects in this category:
+
+##### Stronk-Cloud
+Management interface for deploying and configuring your Stronk media nodes.
+
+##### Stronk-API
+API which indexes blockchain data, manages user accounts and gates access to the media pipeline, using Ethereum wallets for authentication.
+
+##### Stronk-Studio
+A StreamCrafter-powered livestreaming application to stream through our global MistServer-powered CDN. The current proof of concept is [available here](https://video.stronk.rocks/).
+
+##### Stronk-TV
+A platform to consume media from the Stronk pipeline.
 
 </div>
