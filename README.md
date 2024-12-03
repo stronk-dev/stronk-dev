@@ -72,32 +72,12 @@ Note: the StreamCrafter is currently in an alpha state. We're actively looking f
 
 We used to be core contributors to the [Livepeer protocol](https://www.livepeer.org/) and are still heavily involved in the Livepeer ecosystem, moderating their socials and (still) submitting PR's.
 
+There's a website which indexes all of our Livepeer related webapps and links on [stronk.rocks](https://www.stronk.rocks/)
+
 If you're into crypto, feel free to [stake to our Livepeer node](https://explorer.livepeer.org/accounts/0x847791cbf03be716a7fe9dc8c9affe17bd49ae5e/delegating) to show your support and **earn LPT and ETH**.
 
 Livepeer has a enterprise-ready hosted service, called [Livepeer Studio](https://livepeer.studio/). If you want to build *anything* with video, but don't have the expertise to build and manage your own infrastructure, they can help you out!
 
 &nbsp;
-
-### In flight:
-
-The following projects are still in a pre-alpha state and will get released in the future:
-
-#### Stronk-AI
-A dashboard to run AI inference jobs on the Livepeer network (for free)! If this piques your interest, feel free to check out [our demo](https://inference.stronk.rocks/).
-
-#### Stronk-Media-Pipeline (pending rename)
-A reference media pipeline for a basic streaming platform, including docker images, deployment packages and a helpful manual to get introduced to the media industry. There are a couple of subprojects in this category:
-
-##### Stronk-Cloud
-Management interface for deploying and configuring your Stronk media nodes.
-
-##### Stronk-API
-API which indexes blockchain data, manages user accounts and gates access to the media pipeline, using Ethereum wallets for authentication.
-
-##### Stronk-Studio
-A StreamCrafter-powered livestreaming application to stream through our global MistServer-powered CDN. The current proof of concept is [available here](https://video.stronk.rocks/).
-
-##### Stronk-TV
-A platform to consume media from the Stronk pipeline.
 
 </div>
