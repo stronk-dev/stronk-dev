@@ -6,6 +6,8 @@ We have the intention to provide anyone open access to a complete media pipeline
 
 If you're in need of help for your media related projects, [contact us](https://www.stronk.tech/contact) and we'll introduce you to the MistServer team to see how we can help you.
 
+![animation](https://raw.githubusercontent.com/stronk-dev/stronk-dev/snek/github-contribution-grid-snake-dark.svg)
+
 ## Stronk Links
 
 <a href="https://linktr.ee/stronk.tech" target="_blank" rel="noopener noreferrer">
