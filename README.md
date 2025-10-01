@@ -31,16 +31,16 @@ If you're planning a media or music project and need help with content delivery,
 </a>
 
 &nbsp;
-
-## Stronk Stats
-*(unfortunately [the script](https://github.com/anuraghazra/github-readme-stats) only indexes language usage of your own non-forked repo's, so 'Most Used Languages' is more 'Most used languages for personal side-projects')*
-
-<div align="center"> 
-    <img height=259 width="45%" src="https://github.com/stronk-dev/stronk-dev/blob/grs/stats-tokyonight.svg" alt="Stronk Tech's Language stats" />
-    <img height=259 width="45%" src="https://github.com/stronk-dev/stronk-dev/blob/grs/top-langs-tokyonight.svg" alt="Stronk Tech's Github stats" />
-</div>
-
-&nbsp;
+<!---->
+<!--## Stronk Stats-->
+<!--*(unfortunately [the script](https://github.com/anuraghazra/github-readme-stats) only indexes language usage of your own non-forked repo's, so 'Most Used Languages' is more 'Most used languages for personal side-projects')*-->
+<!---->
+<!--<div align="center"> -->
+<!--    <img height=259 width="45%" src="https://github.com/stronk-dev/stronk-dev/blob/grs/stats-tokyonight.svg" alt="Stronk Tech's Language stats" />-->
+<!--    <img height=259 width="45%" src="https://github.com/stronk-dev/stronk-dev/blob/grs/top-langs-tokyonight.svg" alt="Stronk Tech's Github stats" />-->
+<!--</div>-->
+<!---->
+<!--&nbsp;-->
 
 ## Workstreams
 
