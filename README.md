@@ -76,15 +76,9 @@ My Livepeer web apps and tooling live on [stronk.rocks](https://www.stronk.rocks
 
 &nbsp;
 
-### PatchPod Studio — Pack Light. Jam Heavy.
+### [PatchPod Studio](https://patchpod.studio/) — Pack Light. Jam Heavy.
 
-> Where creativity meets community. A modular music ecosystem that brings people together around authentic musical experiences, wherever inspiration strikes.
-
-[PatchPod Studio](https://patchpod.studio/) is the mobile music lab I'm building: a compact kit that carries DAW rigs, synths, loopers, cameras, and streaming gear so we can drop a full studio into any venue.
-
-The concept extends into PatchLab workshops, PatchStage pop-up shows, PatchBooth recording sessions, and PatchStream live sets—all focused on hands-on music education and performance.
-
-It's still in R&D while I lock in the modular layout, DSP chain and connectivity, but it's quickly becoming the music counterpart to my video infrastructure work.
+Portable, modular studio: DAW rigs + synth/looper stack + camera/streaming. Fast patching, low-latency monitoring, clean power and a flexible signal processing chain. Designed to drop into any venue and start recording/streaming in minutes.
 
 &nbsp;
 
