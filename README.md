@@ -1,10 +1,10 @@
 # 🪵 Stronk Overview
 
-I am Marco, video streaming engineer, aspiring musician and owner of Stronk Tech: the open Video and AI stack for those moving beyond the cloud.
+Hi, my name is Marco. I am a video streaming engineer, Livepeer orchestrator, multi-instrumentalist, and owner of Stronk Tech.
 
-We have the intention to provide anyone open access to a complete media pipeline, from the backend media server to the frontend components required to consume content.
+Everything I work on revolves around helping people ship reliable video infrastructure (and increasingly AI-driven workflows).
 
-If you're in need of help for your media related projects, [contact us](https://www.stronk.tech/contact) and we'll introduce you to the MistServer team to see how we can help you.
+If you're planning a media or music project and need help with content delivery, media processing, AI or creative production, [reach out](https://www.stronk.tech/contact) and I'll loop in the MistServer crew (or the right collaborators from other circles).
 
 ![animation](https://raw.githubusercontent.com/stronk-dev/stronk-dev/snek/github-contribution-grid-snake-dark.svg)
 
@@ -42,13 +42,13 @@ If you're in need of help for your media related projects, [contact us](https://
 
 &nbsp;
 
-## Stronk Contributions
+## Workstreams
 
 ### MistServer - worlds first public domain media engine.
 
 > The most efficient and flexible media server in existence, now completely open-source. Take control of your media pipeline and start building with MistServer!
 
-We're one of the maintainers of [MistServer](https://mistserver.com/), the media toolkit that puts you in charge. MistServers' strength lies in it's *extreme*  versatility. It just works, no matter what media format you need to handle or device you want to turn into a streaming powerhouse.
+We're one of the maintainers and co-owners of [MistServer](https://mistserver.com/), the media toolkit made by engineers, for engineers. MistServers' strength lies in it's *extreme*  versatility. It just works, no matter what media format you need to handle or device you want to turn into a streaming powerhouse.
 
 Check out our [repository](https://github.com/DDVTECH/mistserver) and [documentation](https://docs.mistserver.org/) to get started for free, no strings attached!
 
@@ -56,29 +56,45 @@ If you need any help, feel free to [contact us](https://www.stronk.tech/contact)
 
 &nbsp;
 
-### StreamCrafter - where every browser becomes a livestream studio.
+### FrameWorks Network — Full-Stack Video Infrastructure
 
-> No installation. No configuration. No hassle. Just ultra low latency livestreaming straight from the browser.
+> Most streaming platforms lock you into their ecosystem. We give you the keys!
 
-We're the maintainer of the [StreamCrafter](https://www.streamcrafter.live/), an in-browser broadcasting studio. Using cutting edge web API's, we can turn any device with a browser into a livestream studio.
+FrameWorks is the Special Purpose Entity the MistServer team runs for Livepeer. We dedicate engineering time to harden Livepeer's transcoding pipeline, maintain documentation and help teams launch on open infrastructure instead of being locked into cloud platforms. 
 
-Check out our [repository](https://github.com/DDVTECH/StreamCrafter) and [NPM](https://www.npmjs.com/package/@optimist-video/streamcrafter) package to get started with the StreamCrafter!
-
-Note: the StreamCrafter is currently in an alpha state. We're actively looking for (paid) contributors. If you have expertise in web development feel free to [contact us](https://www.streamcrafter.live/contact)!
+That means production-ready MistServer builds, active support for Livepeer node operators and a robust media platform people can self-host or co-build with us. Learn more at [frameworks.network](https://frameworks.network/).
 
 &nbsp;
 
-### Livepeer - world’s open video infrastructure.
+### Livepeer — World's Open Video Infrastructure
 
 > Infrastructure for video computing, enabling AI processing and transcoding jobs to power the future of video.
 
-We used to be core contributors to the [Livepeer protocol](https://www.livepeer.org/) and are still heavily involved in the Livepeer ecosystem, moderating their socials and (still) submitting PR's.
+I'm a long-time Livepeer contributor: past core team, current community moderator and operator of the second largest non-institutional validator node.
 
-There's a website which indexes all of our Livepeer related webapps and links on [stronk.rocks](https://www.stronk.rocks/)
+My Livepeer web apps and tooling live on [stronk.rocks](https://www.stronk.rocks/), and you can delegate to the node [here](https://explorer.livepeer.org/accounts/0x847791cbf03be716a7fe9dc8c9affe17bd49ae5e/delegating) to earn LPT + ETH while backing this work.
 
-If you're into crypto, feel free to [stake to our Livepeer node](https://explorer.livepeer.org/accounts/0x847791cbf03be716a7fe9dc8c9affe17bd49ae5e/delegating) to show your support and **earn LPT and ETH**.
+&nbsp;
 
-Livepeer has a enterprise-ready hosted service, called [Livepeer Studio](https://livepeer.studio/). If you want to build *anything* with video, but don't have the expertise to build and manage your own infrastructure, they can help you out!
+### PatchPod Studio — Pack Light. Jam Heavy.
+
+> Where creativity meets community. A modular music ecosystem that brings people together around authentic musical experiences, wherever inspiration strikes.
+
+[PatchPod Studio](https://patchpod.studio/) is the mobile music lab I'm building: a compact kit that carries DAW rigs, synths, loopers, cameras, and streaming gear so we can drop a full studio into any venue.
+
+The concept extends into PatchLab workshops, PatchStage pop-up shows, PatchBooth recording sessions, and PatchStream live sets—all focused on hands-on music education and performance.
+
+It's still in R&D while I lock in the modular layout, DSP chain and connectivity, but it's quickly becoming the music counterpart to my video infrastructure work.
+
+&nbsp;
+
+### StreamCrafter — Browser-Based Livestream Studio
+
+> No installation. No configuration. No hassle. Just ultra low latency livestreaming straight from the browser.
+
+[StreamCrafter](https://www.streamcrafter.live/) is our in-browser broadcasting studio. It's on the back burner while we push MistServer and FrameWorks, but the foundation is there and we're planning another product pass.
+
+Developers can check out the [repo](https://github.com/DDVTECH/StreamCrafter) and [NPM package](https://www.npmjs.com/package/@optimist-video/streamcrafter); we're always open to paid contributors with WebRTC experience.
 
 &nbsp;
 
