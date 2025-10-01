@@ -44,11 +44,11 @@ If you're planning a media or music project and need help with content delivery,
 
 ## Workstreams
 
-### MistServer - worlds first public domain media engine.
+### MistServer - Public-Domain Media Engine
 
-> The most efficient and flexible media server in existence, now completely open-source. Take control of your media pipeline and start building with MistServer!
+> The streaming toolkit that keeps engineers in control. Capture any source, orchestrate workflows, deliver anywhere.
 
-We're one of the maintainers and co-owners of [MistServer](https://mistserver.com/), the media toolkit made by engineers, for engineers. MistServers' strength lies in it's *extreme*  versatility. It just works, no matter what media format you need to handle or device you want to turn into a streaming powerhouse.
+We're one of the maintainers and co-owners of [MistServer](https://mistserver.com/), the media toolkit made by engineers, for engineers. MistServers' strength lies in it's *extreme*  versatility. Written in C++ with a small footprint, it runs almost anywhere and exposes clean APIs for automation and observability. It just works, no matter what media format you need to handle or device you want to turn into a streaming powerhouse.
 
 Check out our [repository](https://github.com/DDVTECH/mistserver) and [documentation](https://docs.mistserver.org/) to get started for free, no strings attached!
 
