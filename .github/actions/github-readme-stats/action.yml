@@ -1,0 +1,55 @@
+name: Generate GitHub Readme Stats Card
+description: Clone the upstream github-readme-stats project and render a card using the latest code.
+author: stronk-dev
+inputs:
+  token:
+    description: GitHub token with repo scope to authenticate API calls.
+    required: true
+  options:
+    description: Query-string options supported by github-readme-stats (e.g. username=foo&show_icons=true).
+    required: true
+  card:
+    description: Card variant to render (stats, top-langs, repo, wakatime).
+    required: false
+    default: stats
+  path:
+    description: Destination path for the generated SVG.
+    required: false
+    default: ''
+  fetch_multipage:
+    description: Set to true to enable multi-page star fetching.
+    required: false
+    default: ''
+runs:
+  using: composite
+  steps:
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '22'
+    - name: Fetch github-readme-stats
+      shell: bash
+      run: |
+        set -eu
+        SRC_DIR="${{ runner.temp }}/github-readme-stats"
+        rm -rf "$SRC_DIR"
+        git clone --depth 1 https://github.com/anuraghazra/github-readme-stats "$SRC_DIR"
+    - name: Install dependencies
+      shell: bash
+      run: |
+        set -eu
+        SRC_DIR="${{ runner.temp }}/github-readme-stats"
+        cd "$SRC_DIR"
+        npm ci --omit=dev --ignore-scripts
+    - name: Render card
+      shell: bash
+      env:
+        GRS_SOURCE_DIR: ${{ runner.temp }}/github-readme-stats
+        GRS_OPTIONS: ${{ inputs.options }}
+        GRS_CARD: ${{ inputs.card }}
+        GRS_OUTPUT_PATH: ${{ inputs.path }}
+        PAT_1: ${{ inputs.token }}
+        FETCH_MULTI_PAGE_STARS: ${{ inputs.fetch_multipage }}
+      run: |
+        set -eu
+        node "$GITHUB_ACTION_PATH/render-card.mjs"

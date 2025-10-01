@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Generate Stats
-        uses: Zo-Bro-23/grs-action@main
+        uses: ./.github/actions/github-readme-stats
         id: generate
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -30,12 +30,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Generate Top Languages
-        uses: Zo-Bro-23/grs-action@main
+        uses: ./.github/actions/github-readme-stats
         id: generate
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=tokyonight'
-          card: 'top-langs'
+          card: top-langs
           path: top-langs-tokyonight.svg
       - uses: actions/upload-artifact@master
         with:
