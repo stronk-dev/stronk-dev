@@ -78,6 +78,8 @@ My Livepeer web apps and tooling live on [stronk.rocks](https://www.stronk.rocks
 
 ### [PatchPod Studio](https://patchpod.studio/) — Pack Light. Jam Heavy.
 
+> Pop-up music studio that creates instant venues for live performances, studio recording, and creative education.
+
 Portable, modular studio: DAW rigs + synth/looper stack + camera/streaming. Fast patching, low-latency monitoring, clean power and a flexible signal processing chain. Designed to drop into any venue and start recording/streaming in minutes.
 
 &nbsp;
