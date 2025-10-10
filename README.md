@@ -1,5 +1,7 @@
 # 🪵 Stronk Overview
 
+Prefer a polished version of this overview? Visit &nbsp; <a href="https://hub.stronk.tech" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/hub-stronk.tech-c0caf5?style=for-the-badge&logo=netlify&logoColor=c0caf5&labelColor=414868&color=c0caf5" alt="Stronk Hub" /></a> &nbsp; for everything Stronk.
+
 Hi, my name is Marco. I am a video streaming engineer, Livepeer orchestrator, multi-instrumentalist, and owner of Stronk Tech.
 
 Everything I work on revolves around helping people ship reliable video infrastructure (and increasingly AI-driven workflows).
@@ -7,28 +9,6 @@ Everything I work on revolves around helping people ship reliable video infrastr
 If you're planning a media or music project and need help with content delivery, media processing, AI or creative production, [reach out](https://www.stronk.tech/contact) and I'll loop in the MistServer crew (or the right collaborators from other circles).
 
 ![animation](https://raw.githubusercontent.com/stronk-dev/stronk-dev/snek/github-contribution-grid-snake-dark.svg)
-
-## Stronk Links
-
-<a href="https://linktr.ee/stronk.tech" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/links-%40stronk.tech-c0caf5?style=for-the-badge&logo=linktree&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Flinktr.ee%2Fstronk.tech" alt="Linktree" />
-</a>
-&nbsp;
-<a href="http://stronk.tech/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/website-www.stronk.tech-c0caf5?style=for-the-badge&logo=webflow&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Fstronk.tech" alt="Main website" />
-</a>
-&nbsp;
-<a href="https://wa.me/31625300165" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-%40stronk--tech-c0caf5?style=for-the-badge&logo=whatsapp&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Fwa.me%2F31625300165" alt="WhatsApp" />
-</a>
-&nbsp;
-<a href="https://t.me/Cpn_Stronk" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-%40Cpn__Stronk-c0caf5?style=for-the-badge&logo=telegram&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Ft.me%2FCpn_Stronk" alt="Telegram" />
-</a>
-&nbsp;
-<a href="https://discordapp.com/users/303504235927044097" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-%40captain.stronk-c0caf5?style=for-the-badge&logo=discord&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F303504235927044097" alt="Discord" />
-</a>
 
 &nbsp;
 <!---->
