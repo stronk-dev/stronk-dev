@@ -56,22 +56,4 @@ My Livepeer web apps and tooling live on [stronk.rocks](https://www.stronk.rocks
 
 &nbsp;
 
-### [PatchPod Studio](https://patchpod.studio/) — Pack Light. Jam Heavy.
-
-> Pop-up music studio that creates instant venues for live performances, studio recording, and creative education.
-
-Portable, modular studio: DAW rigs + synth/looper stack + camera/streaming. Fast patching, low-latency monitoring, clean power and a flexible signal processing chain. Designed to drop into any venue and start recording/streaming in minutes.
-
-&nbsp;
-
-### StreamCrafter — Browser-Based Livestream Studio
-
-> No installation. No configuration. No hassle. Just ultra low latency livestreaming straight from the browser.
-
-[StreamCrafter](https://www.streamcrafter.live/) is our in-browser broadcasting studio. It's on the back burner while we push MistServer and FrameWorks, but the foundation is there and we're planning another product pass.
-
-Developers can check out the [repo](https://github.com/DDVTECH/StreamCrafter) and [NPM package](https://www.npmjs.com/package/@optimist-video/streamcrafter); we're always open to paid contributors with WebRTC experience.
-
-&nbsp;
-
 </div>
